@@ -1,4 +1,4 @@
-import { mount } from "marketing/marketingIndex";
+import { mount } from "marketing/marketingApp";
 import React, { useRef, useEffect } from "react";
 
 export default () => {
