@@ -10,7 +10,7 @@ on:
 
 defaults:
   run:
-    working-directory: packages/mareting  
+    working-directory: packages/marketing  
 
 jobs:
   build:
